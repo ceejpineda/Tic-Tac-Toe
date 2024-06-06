@@ -1,3 +1,9 @@
+## Vercel Deployed
+[Play Here](https://tic-tac-toe-mu-henna.vercel.app/)
+
+## Youtube Link Demo
+[Youtube](https://youtu.be/yuDAurUyyvc)
+
 ## Available Scripts
 
 In the project directory, you can run:
